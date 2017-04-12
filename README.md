@@ -12,4 +12,5 @@ AddConversionFactor("feet", "inch", 12);
 
 Any additional unit conversion definition should be added there. Ideally this set of conversion factors should be defined
 in some config file.
-            
+
+Class PrefixDefinition - contains list of supported SI prefixes and their multiplication values
